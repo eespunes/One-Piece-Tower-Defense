@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fd5c8629c6bca8b4698d1b41b90b449b
+timeCreated: 1522090206
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 500
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ONE PIECE
+  fontNames:
+  - ONE PIECE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

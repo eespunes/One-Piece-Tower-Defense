@@ -1,0 +1,2056 @@
+fileFormatVersion: 2
+guid: e0bbfe9904a019e4482255a3df51f2cd
+timeCreated: 1522058197
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 270H0
+    21300002: 270H1
+    21300004: 225H0
+    21300006: 225H1
+    21300008: 180H0
+    21300010: 180H1
+    21300012: 135H0
+    21300014: 135H1
+    21300016: 90H0
+    21300018: 90H1
+    21300020: Luffy_10
+    21300022: Luffy_11
+    21300024: Luffy_12
+    21300026: 45H0
+    21300028: 45H1
+    21300030: 0H0
+    21300032: 0H1
+    21300034: 315H0
+    21300036: 315H1
+    21300038: Luffy_19
+    21300040: Luffy_20
+    21300042: Luffy_21
+    21300044: Luffy_22
+    21300046: Luffy_23
+    21300048: Luffy_24
+    21300050: Luffy_25
+    21300052: Luffy_26
+    21300054: Luffy_27
+    21300056: Luffy_28
+    21300058: Luffy_29
+    21300060: Luffy_30
+    21300062: 270B0
+    21300064: 270B1
+    21300066: 270B2
+    21300068: 270R
+    21300070: 225B0
+    21300072: 225B1
+    21300074: 225B2
+    21300076: 225R
+    21300078: 180B0
+    21300080: 180B1
+    21300082: 180B2
+    21300084: 180L
+    21300086: 135B0
+    21300088: 135B1
+    21300090: 135B2
+    21300092: 135L
+    21300094: 270L
+    21300096: 225L
+    21300098: 270B3
+    21300100: Luffy_50
+    21300102: 270A2A
+    21300104: 270A2B
+    21300106: 270A2C
+    21300108: 225B3
+    21300110: Luffy_55
+    21300112: 225A2C
+    21300114: 225A2B
+    21300116: 225A2A
+    21300118: Luffy_59
+    21300120: 180B3
+    21300122: 180A0
+    21300124: 180A2A
+    21300126: 180A2B
+    21300128: 135B3
+    21300130: 135A0
+    21300132: 135A2C
+    21300134: 135A2B
+    21300136: 135A2A
+    21300138: Luffy_69
+    21300140: Luffy_70
+    21300142: Luffy_71
+    21300144: 270A0
+    21300146: 270A1
+    21300148: Luffy_74
+    21300150: 225A0
+    21300152: 225A1
+    21300154: Luffy_77
+    21300156: Luffy_78
+    21300158: Luffy_79
+    21300160: 180A1
+    21300162: Luffy_81
+    21300164: Luffy_82
+    21300166: Luffy_83
+    21300168: Luffy_84
+    21300170: 135A1
+    21300172: 90B0
+    21300174: 90B1
+    21300176: 90B2
+    21300178: 90R
+    21300180: 45B1
+    21300182: 45B2
+    21300184: 45B3
+    21300186: 45R
+    21300188: 0B0
+    21300190: 0B1
+    21300192: 0B2
+    21300194: 0L
+    21300196: 315B0
+    21300198: 315B1
+    21300200: 315B2
+    21300202: 315L
+    21300204: 315R
+    21300206: 0R
+    21300208: Luffy_104
+    21300210: 90B3
+    21300212: 90A0
+    21300214: Luffy_107
+    21300216: 90A1
+    21300218: 45B4
+    21300220: 45A0
+    21300222: 45A2A
+    21300224: 45A2B
+    21300226: 45A2C
+    21300228: 0B3
+    21300230: 0A0
+    21300232: 0A1
+    21300234: 0A2
+    21300236: 315B3
+    21300238: Luffy_119
+    21300240: 315A0
+    21300242: 315A2A
+    21300244: 315A2B
+    21300246: 315A2C
+    21300248: 90Left
+    21300250: 90A2C
+    21300252: 90A2B
+    21300254: 90A2A
+    21300256: 45A1
+    21300258: Luffy_129
+    21300260: Luffy_130
+    21300262: Luffy_131
+    21300264: 315A1
+    21300266: Luffy_133
+    21300268: Luffy_134
+    21300270: Luffy_135
+    21300272: Luffy_136
+    21300274: Luffy_137
+    21300276: Luffy_138
+    21300278: Luffy_139
+    21300280: Luffy_140
+    21300282: Luffy_141
+    21300284: Luffy_142
+    21300286: Luffy_143
+    21300288: Luffy_144
+    21300290: Luffy_145
+    21300292: Luffy_146
+    21300294: Luffy_147
+    21300296: Luffy_148
+    21300298: Luffy_149
+    21300300: Luffy_150
+    21300302: Luffy_151
+    21300304: Luffy_152
+    21300306: Luffy_153
+    21300308: Luffy_154
+    21300310: Luffy_155
+    21300312: Luffy_156
+    21300314: Luffy_157
+    21300316: Luffy_158
+    21300318: Luffy_159
+    21300320: Luffy_160
+    21300322: Luffy_161
+    21300324: Luffy_162
+    21300326: Luffy_163
+    21300328: Luffy_164
+    21300330: Luffy_165
+    21300332: Luffy_166
+    21300334: Luffy_167
+    21300336: Luffy_168
+    21300338: Luffy_169
+    21300340: Luffy_170
+    21300342: Luffy_171
+    21300344: Luffy_172
+    21300346: Luffy_173
+    21300348: Luffy_174
+    21300350: Luffy_175
+    21300352: Luffy_176
+    21300354: Luffy_177
+    21300356: Luffy_178
+    21300358: Luffy_179
+    21300360: Luffy_180
+    21300362: Luffy_181
+    21300364: Luffy_182
+    21300366: Luffy_183
+    21300368: Luffy_184
+    21300370: Luffy_185
+    21300372: Luffy_186
+    21300374: Luffy_187
+    21300376: Luffy_188
+    21300378: Luffy_189
+    21300380: Luffy_190
+    21300382: Luffy_191
+    21300384: Luffy_192
+    21300386: Luffy_193
+    21300388: Luffy_194
+    21300390: Luffy_195
+    21300392: Luffy_196
+    21300394: Luffy_197
+    21300396: Luffy_198
+    21300398: Luffy_199
+    21300400: Luffy_200
+    21300402: Luffy_201
+    21300404: Luffy_202
+    21300406: Luffy_203
+    21300408: Luffy_204
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 270H0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 636
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 270H1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 636
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225H0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 636
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225H1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 636
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 180H0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 636
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 180H1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 636
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 135H0
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 637
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 135H1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 637
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90H0
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 638
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90H1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 637
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 635
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 653
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 652
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 45H0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 597
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 45H1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 597
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0H0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 596
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0H1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 596
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315H0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 596
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315H1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 596
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 615
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 615
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 614
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_22
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 614
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 614
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 614
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_25
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 614
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_26
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 615
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_27
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 612
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_28
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 603
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 612
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_30
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 603
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 270B0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 564
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 270B1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 564
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 270B2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 564
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 270R
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 583
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225B0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 564
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225B1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 564
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225B2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 564
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225R
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 582
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 180B0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 564
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 180B1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 564
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 180B2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 564
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 180L
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 582
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 135B0
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 564
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 135B1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 564
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 135B2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 564
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 135L
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 580
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 270L
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 568
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225L
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 568
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 270A2A
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 547
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 270A2B
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 547
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 270A2C
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 550
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 556
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225A2C
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 548
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225A2B
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 542
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225A2A
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 550
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 549
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 180A0
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 548
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 180A2A
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 552
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 180A2B
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 550
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 135A0
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 547
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 135A2C
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 549
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 135A2B
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 541
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 135A2A
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 548
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_70
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 548
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_71
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 550
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 270A0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 534
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 270A1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 531
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_74
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 534
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225A0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 534
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 225A1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 532
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_77
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 533
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_78
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 540
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_79
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 534
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 180A1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 534
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_81
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 534
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 537
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 532
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_84
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 540
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 135A1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 535
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90B0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 500
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90B1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 500
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90B2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 500
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90R
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 517
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 45B1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 500
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 45B2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 500
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 45B3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 500
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 45R
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 517
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0B0
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 500
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0B1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 500
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0B2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 500
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0L
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 519
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315B0
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 500
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315B1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 500
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315B2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 500
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315L
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 517
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315R
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 519
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0R
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 500
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90A0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 487
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_107
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 487
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90A1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 488
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 45A0
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 486
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 45A2A
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 484
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 45A2B
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 476
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 45A2C
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 483
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0A0
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 484
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0A1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 485
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 0A2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 487
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 484
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315A0
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 485
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315A2A
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 483
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315A2B
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 479
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315A2C
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 486
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90Left
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 470
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90A2C
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 467
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90A2B
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 467
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 90A2A
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 467
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 45A1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 468
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_129
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 469
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_130
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 476
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_131
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 468
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 315A1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 471
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_133
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 476
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_134
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 476
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_135
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 468
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Luffy_136
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 468
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
